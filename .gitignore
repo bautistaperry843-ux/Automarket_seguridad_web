@@ -1,0 +1,7 @@
+# Excluir archivo de variables de entorno sensibles
+.env
+
+# Archivos de sistema / IDE
+.DS_Store
+.idea/
+.vscode/
